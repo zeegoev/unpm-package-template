@@ -1,6 +1,6 @@
 {
   "name": "@zeegoev/unpm-package-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "javascript package template",
   "cdn": "dist/index.umd.js",
   "main": "dist/index.js",
