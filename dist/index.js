@@ -1,5 +1,5 @@
 /*!
- * @zeegpoev/unpm-package-template v1.0.0
+ * @zeegoev/unpm-package-template v1.0.0
  * (c) zeegoev
  * Released under the MIT License.
  */

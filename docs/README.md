@@ -1,6 +1,6 @@
-[libraryNameWithSpacesAndUpperCases]
+@zeegoev/unpm-package-template
 
-# [libraryNameWithSpacesAndUpperCases]
+# @zeegoev/unpm-package-template
 
 ## Table of contents
 
@@ -22,7 +22,7 @@ A Branded Type for values parseable to number.
 
 #### Defined in
 
-[index.ts:4](https://github.com/VitorLuizC/typescript-library-boilerplate/blob/c48c9c1/src/index.ts#L4)
+[index.ts:4](https://github.com/zeegoev/unpm-package-template/blob/3557523/src/index.ts#L4)
 
 ## Functions
 
@@ -58,4 +58,4 @@ return Number(value);
 
 #### Defined in
 
-[index.ts:24](https://github.com/VitorLuizC/typescript-library-boilerplate/blob/c48c9c1/src/index.ts#L24)
+[index.ts:24](https://github.com/zeegoev/unpm-package-template/blob/3557523/src/index.ts#L24)
