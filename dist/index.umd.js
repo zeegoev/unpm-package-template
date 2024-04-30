@@ -1,6 +1,6 @@
 /*!
- * [libraryName] v0.0.0
- * (c) [authorFullName]
+ * @zeegpoev/unpm-package-template v1.0.0
+ * (c) zeegoev
  * Released under the MIT License.
  */
 
